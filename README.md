@@ -4,7 +4,7 @@ A simple animated  menu list for Flutter, Adjustable radius, colors, text size, 
 
 ## Features
 
-![a.gif](doc%2Fa.gif)
+doc/a.gif
 
 ![b.jpg](doc%2Fb.jpg)
 
