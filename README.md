@@ -11,12 +11,12 @@ A simple animated  menu list for Flutter, Adjustable radius, colors, text size, 
 
 ## Getting started
 
-#Installation
+## Installation
 
 
  fancy_menu : ^latest_version
 
-to your pubspec.yaml, and run
+## to your pubspec.yaml, and run
 
 
 flutter pub get
